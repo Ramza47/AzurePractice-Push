@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzurePractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a928b280bc5ae41f714d137b75d846197d954f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzurePractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzurePractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
